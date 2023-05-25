@@ -1,13 +1,13 @@
 # Full-Stack Software Engineer
 
 <div id="badges" align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabriel.pagan.mateo@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=melissaarroyotorres9806@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/melissa-arroyo-torres/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="">
+   <a href="https://docs.google.com/document/d/1NNIJTDGyiQr-U6ZFySWX2WBsl5qoE6U1/edit">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=google-docs&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
