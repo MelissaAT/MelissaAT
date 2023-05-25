@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <a href="https://keysleft.com/">"If there are a finite number of keystrokes left in your hands before you die. How much programming do you have left?"</a>
+  <a href="https://keysleft.com/">"Code is like poetry; you strive for elegance, simplicity, and beauty in every line."</a>
 </div>
 
 
