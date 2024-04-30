@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/melissa-arroyo-torres/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://docs.google.com/document/d/1NNIJTDGyiQr-U6ZFySWX2WBsl5qoE6U1/edit?usp=sharing&ouid=102326151164362482071&rtpof=true&sd=true">
+   <a href="https://docs.google.com/document/d/1XGI9-h5nZOXJCEM343jmqxcbbsZlF0rcE33ZW68cldY/edit">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=google-docs&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
